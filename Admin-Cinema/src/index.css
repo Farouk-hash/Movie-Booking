@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Apply dark mode to entire app */
+:root {
+  color-scheme: dark;
+}
+
+html, body {
+  background: #000000b6; 
+  color: white;
+}

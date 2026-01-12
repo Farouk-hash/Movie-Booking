@@ -1,0 +1,12 @@
+# Global
+.env
+.env.*
+node_modules/
+dist/
+build/
+coverage/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
