@@ -1,0 +1,14 @@
+## 📱 Screenshots
+
+<p align="center">
+  <img src="./screenShots/frontend/home.png" width="220" />
+  <img src="./screenShots/frontend/home2.png" width="220" />
+  <img src="./screenShots/frontend/home3.png" width="220" />
+  <img src="./screenShots/frontend/home4.png" width="220" />
+  <img src="./screenShots/frontend/home5.png" width="220" />
+  <img src="./screenShots/frontend/login.png" width="220" />
+  <img src="./screenShots/frontend/movies.png" width="220" />
+  <img src="./screenShots/frontend/movies1.png" width="220" />
+  <img src="./screenShots/frontend/signup.png" width="220" />
+
+</p>
