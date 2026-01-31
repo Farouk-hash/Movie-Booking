@@ -17,15 +17,11 @@
 
 <p align="center">
   <img src="./screenShots/admin/addMovies.png" width="220" />
-  <img src="./screenShots/admin/addMovies1.png" width="220" />
-  <img src="./screenShots/admin/addMovies2.png" width="220" />
-  <img src="./screenShots/admin/addMovies3.png" width="220" />
-    <img src="./screenShots/admin/addMovies4.png" width="220" />
-  <img src="./screenShots/admin/addMovies5.png" width="220" />
-  <img src="./screenShots/admin/addMovies6.png" width="220" />
+  <img src="./screenShots/admin/addMovies.png" width="220" />
+  <img src="./screenShots/admin/addMovies.png" width="220" />
+  <img src="./screenShots/admin/addMovies.png" width="220" />
   <img src="./screenShots/admin/listMovies.png" width="220" />
-
+ 
 
 </p>
-
 
